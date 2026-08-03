@@ -60,7 +60,6 @@ Common options:
 Fixed experiment settings:
 
 - All six datasets are split as train / valid / test = 7 / 1 / 2.
-- The best epoch is selected by validation AUC.
 - MFCD uses `fluency_lambda = 0.3` and `flu_latent_dim = 32`.
 
 
