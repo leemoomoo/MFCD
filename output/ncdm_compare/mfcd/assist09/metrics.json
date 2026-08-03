@@ -1,0 +1,23 @@
+{
+  "dataset": "assist09",
+  "model": "mfcd",
+  "student_n": 2494,
+  "exer_n": 17671,
+  "knowledge_n": 123,
+  "n_train": 187190,
+  "n_valid": 26741,
+  "n_test": 53484,
+  "best_epoch": 4,
+  "select_metric": "auc",
+  "best_valid_auc": 0.7729572753390864,
+  "best_valid_acc": 0.7370704162148013,
+  "best_valid_f1": 0.815435096469353,
+  "best_valid_rmse": 0.4232574699540307,
+  "calibration": "platt",
+  "calibration_intercept": -0.07780940403690546,
+  "calibration_coef": 0.7748692134768812,
+  "test_auc": 0.7711045343768707,
+  "test_acc": 0.7394734873981004,
+  "test_f1": 0.8154437086092715,
+  "test_rmse": 0.41964039794583935
+}

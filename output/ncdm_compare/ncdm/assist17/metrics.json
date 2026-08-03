@@ -1,0 +1,23 @@
+{
+  "dataset": "assist17",
+  "model": "ncdm",
+  "student_n": 1710,
+  "exer_n": 3162,
+  "knowledge_n": 102,
+  "n_train": 273231,
+  "n_valid": 39033,
+  "n_test": 78067,
+  "best_epoch": 2,
+  "select_metric": "auc",
+  "best_valid_auc": 0.8775027926234504,
+  "best_valid_acc": 0.8528168472830682,
+  "best_valid_f1": 0.9129162813963712,
+  "best_valid_rmse": 0.3175889035656229,
+  "calibration": "platt",
+  "calibration_intercept": -0.10828634701890989,
+  "calibration_coef": 0.8957723518872961,
+  "test_auc": 0.875067435987134,
+  "test_acc": 0.8473618814607965,
+  "test_f1": 0.9084834800239621,
+  "test_rmse": 0.3195463181652582
+}

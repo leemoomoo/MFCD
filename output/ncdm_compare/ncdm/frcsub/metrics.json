@@ -1,0 +1,23 @@
+{
+  "dataset": "frcsub",
+  "model": "ncdm",
+  "student_n": 536,
+  "exer_n": 20,
+  "knowledge_n": 8,
+  "n_train": 7504,
+  "n_valid": 1072,
+  "n_test": 2144,
+  "best_epoch": 19,
+  "select_metric": "auc",
+  "best_valid_auc": 0.7737964527027027,
+  "best_valid_acc": 0.5522388059701493,
+  "best_valid_f1": 0.7115384615384616,
+  "best_valid_rmse": 0.49781333085138657,
+  "calibration": "platt",
+  "calibration_intercept": -130.58321112645612,
+  "calibration_coef": 1233.439978601744,
+  "test_auc": 0.7505588557990306,
+  "test_acc": 0.6823694029850746,
+  "test_f1": 0.7302970297029703,
+  "test_rmse": 0.4503527219229498
+}

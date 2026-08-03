@@ -1,0 +1,23 @@
+{
+  "dataset": "math1",
+  "model": "mfcd",
+  "student_n": 4209,
+  "exer_n": 20,
+  "knowledge_n": 11,
+  "n_train": 58925,
+  "n_valid": 8418,
+  "n_test": 16837,
+  "best_epoch": 4,
+  "select_metric": "auc",
+  "best_valid_auc": 0.8081758692028493,
+  "best_valid_acc": 0.7240437158469946,
+  "best_valid_f1": 0.7302914199465924,
+  "best_valid_rmse": 0.42163483530013224,
+  "calibration": "platt",
+  "calibration_intercept": -0.03288929519110251,
+  "calibration_coef": 1.0157339722086123,
+  "test_auc": 0.809697803138661,
+  "test_acc": 0.7254261448001426,
+  "test_f1": 0.7277224807114671,
+  "test_rmse": 0.42169687254652627
+}

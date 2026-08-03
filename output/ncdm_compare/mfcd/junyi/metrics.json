@@ -1,0 +1,23 @@
+{
+  "dataset": "junyi",
+  "model": "mfcd",
+  "student_n": 9998,
+  "exer_n": 707,
+  "knowledge_n": 39,
+  "n_train": 152800,
+  "n_valid": 21826,
+  "n_test": 43653,
+  "best_epoch": 3,
+  "select_metric": "auc",
+  "best_valid_auc": 0.8145510104033297,
+  "best_valid_acc": 0.8020709245853569,
+  "best_valid_f1": 0.8770211796857208,
+  "best_valid_rmse": 0.37440240450814427,
+  "calibration": "platt",
+  "calibration_intercept": -0.12970604064886296,
+  "calibration_coef": 0.8795750015067367,
+  "test_auc": 0.8130033586091535,
+  "test_acc": 0.8018692873342038,
+  "test_f1": 0.875164181689592,
+  "test_rmse": 0.37253945477722894
+}

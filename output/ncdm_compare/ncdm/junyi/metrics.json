@@ -1,0 +1,23 @@
+{
+  "dataset": "junyi",
+  "model": "ncdm",
+  "student_n": 9998,
+  "exer_n": 707,
+  "knowledge_n": 39,
+  "n_train": 152800,
+  "n_valid": 21826,
+  "n_test": 43653,
+  "best_epoch": 4,
+  "select_metric": "auc",
+  "best_valid_auc": 0.8025206396107449,
+  "best_valid_acc": 0.7956107394850178,
+  "best_valid_f1": 0.8698923790357862,
+  "best_valid_rmse": 0.38013581233153443,
+  "calibration": "platt",
+  "calibration_intercept": 0.06638835604771676,
+  "calibration_coef": 0.8162998231038697,
+  "test_auc": 0.7987890813595002,
+  "test_acc": 0.7908276636199115,
+  "test_f1": 0.8680662919562485,
+  "test_rmse": 0.38038856554365064
+}
