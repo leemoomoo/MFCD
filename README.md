@@ -75,3 +75,11 @@ output/ncdm_compare/
 |-- mfcd/{dataset}/metrics.json
 `-- mfcd/{dataset}/history.json
 ```
+
+## Citation
+
+This work is based on the following paper:
+
+> Yi, J., Li, X., Wang, L., Gong, G., & Xu, W. (2026). A Dual-Stream Cognitive Diagnosis Framework via Mastery-Fluency Disentanglement. In *Proceedings of the 22nd International Conference on Advanced Data Mining and Applications (ADMA 2026)*.
+
+When using this code, please cite the above paper.
