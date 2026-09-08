@@ -1,4 +1,4 @@
-# NCDM vs MFCD Comparison
+# MFCD
 
 This project compares the baseline NCDM model with the improved MFCD model on six public educational datasets. MFCD extends the NCDM cognitive diagnosis backbone with fluency proxy features.
 
